@@ -1,0 +1,27 @@
+(* 
+    Copyright © 2026 fjMSX🦔 and all involved people. All Rights Reserved.
+    License: BSD3 available at https://github.com/fjMSX/msx-example-fjoberon/edit/main/LICENSE
+*)
+
+MODULE MSX_EXAMPLE;
+
+FROM Strings IMPORT Print, PrintLn;
+FROM IO IMPORT GetChar;
+
+BEGIN
+    Print("Hello, MSX World!"); PrintLn;
+    Print("ArdennFaeries has Strings & IO!"); PrintLn;
+    PrintLn; Print("Press any key...");
+    GetChar
+END MSX_EXAMPLE.
+Greetz to retrolunar, BiFi, Vampier, Quibus, Guyver8000, bigbeatpigmeat, YAMAHA, MEGAFLASHROM folks, Carl Huff, DTS.com, DTSDCINEMA.COM, wrz, wipedlifepotato!
+BE MUST DIE!
+  HEAR NO EVIL ^^ HERE'S A FOREST TAYGAOS!!!
+Ported from .c @ https://github.com/lunardoesdev/msx-example by fjMSX
+https://github.com/fjMSX/msx-example-fjoberon
+NEXTOR OR TAYGAOS THAT IS THE QUESTION
+FUCK OFF TREPACKOFF
+Yours truly, Drukker a wannabe SOLARPUNK FOREVER!!!
+;EOF
+BEES HOLES & MYTHRIL RAINBOWS SEAHORSES
+PHYSICAL GRAFFITI &? 🦔лашаткааааааааа
