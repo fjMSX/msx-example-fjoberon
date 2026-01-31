@@ -1,3 +1,7 @@
+_ВОЛШБА
+(* Если бы дятлы были щищны (* Козьма Прутков II *) *)
+(* Ok *)
+
 (* 
     Copyright © 2026 fjMSX🦔 and all involved people. All Rights Reserved.
     License: BSD3 available at https://github.com/fjMSX/msx-example-fjoberon/edit/main/LICENSE
@@ -10,7 +14,7 @@ FROM IO IMPORT GetChar;
 
 BEGIN
     Print("Hello, MSX World!"); PrintLn;
-    Print("ArdennFaeries has Strings & IO!"); PrintLn;
+    Print("ArdennFaeries have Strings & IO!"); PrintLn;
     PrintLn; Print("Press any key...");
     GetChar
 END MSX_EXAMPLE.
@@ -27,3 +31,4 @@ Yours truly, Drukker a wannabe SOLARPUNK FOREVER!!!
 BEES HOLES & MYTHRIL RAINBOWS SEAHORSES
 PHYSICAL GRAFFITI &? 🦔лашаткааааааааа
 JAPANESE DIVISION OF MICROSOFT FOREVER!!! MILK BROTHERHOOD DOZE SAYS ALL RIGHT!
+НАДА ВХОДИТЬ В РАЖ
