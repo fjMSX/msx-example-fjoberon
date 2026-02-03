@@ -4,7 +4,7 @@ _ВОЛШБА
 
 (* 
     Copyright © 2026 fjMSX🦔 and all involved people. All Rights Reserved.
-    License: BSD3 available at https://github.com/fjMSX/msx-example-fjoberon/edit/main/LICENSE
+    License: BSD3 https://github.com/fjMSX/msx-example-fjoberon/blob/main/LICENSE
 *)
 
 MODULE MSX_EXAMPLE;
